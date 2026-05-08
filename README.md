@@ -10,7 +10,7 @@ In this project, I set up an Azure-based Security Information and Event Manageme
 </div>
 
 ### Azure Sentinel Honeypot Project Steps:
-- **Virtual Machiine initialization:** Configured a virtual machine (VM) with a Windows 10/11 image, setting the stage for the honeypot environment.
+- **Virtual Machine initialization:** Configured a virtual machine (VM) with a Windows 10/11 image, setting the stage for the honeypot environment.
 - **Deliberately Vulnerable Configuration:**
     - **Network Configuration:** Adjusted the firewall settings to accept all incoming connections, ensuring the VM was exposed to potential attacks.
     -** Defender Configuration:** Disabled the Windows Defender Firewall, further making the VM vulnerable.
